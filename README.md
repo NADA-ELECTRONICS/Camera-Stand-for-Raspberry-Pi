@@ -1,5 +1,5 @@
 # Camera Stand for Raspberry Pi  
-Publish STL and ZIP(STEP) files.  
+Publish STL files.  
 
 # References  
 Following documents may offer further reference.  
